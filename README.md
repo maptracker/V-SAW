@@ -44,6 +44,10 @@ review.
 
 ![V-SAW Workflow][Workflow]
 
+My contribution was in the yellow boxes above. My code would
+ultimately generate JSON structures that would be read by Mingyi's
+viewer.
+
 * [BMS Public Disclosure approval](PubD-Disclosure-Approval.md)
 
 [Mingyi]: http://mingyi.org/
